@@ -1,0 +1,21 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.bb{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+}
+.obeso{
+    text-align: center;
+    color: red;
+}
+.imc{
+    display: flex;
+    justify-content: center;
+}
+.tableImc{
+    display: flex;
+    justify-content: center;
+}
